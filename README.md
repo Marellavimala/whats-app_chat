@@ -23,26 +23,11 @@ This app allows users to chat seamlessly while also providing easy-to-use file c
 
 ## 🛠️ Installation
 
-1. Clone the repository:
-   ```bash
-   git clone <repository-url>
-   ```
-2. Navigate to the project directory:
-   ```bash
-   cd what\ app_chat
-   ```
-3. Install dependencies:
-   ```bash
-   npm install
-   ```
-4. Start the server:
-   ```bash
-   node server.js
-   ```
-5. Open your browser and go to:
-   ```
-   http://localhost:3000
-   ```
+1. Open **Visual Studio Code**.
+2. Click on **File > Open Folder** and select the project folder.
+3. Open the **index.html** file.
+4. Click on **Go Live** button at the bottom-right corner to start the Live Server.
+5. The app will open in your default browser.
 
 ---
 

@@ -1,21 +1,23 @@
-# WhatsApp Chat App 💬
+# WhatsApp Chat File Converter 💬📁
 
-Welcome to the **WhatsApp Chat App**, a real-time messaging web application designed for seamless and efficient communication.
+Welcome to the **WhatsApp Chat File Converter**, a web application that combines real-time chat functionality with powerful file conversion tools.
 
 ---
 
 ## 🌟 Introduction
 
-This app provides a clean and intuitive interface for users to chat instantly. Built with modern web technologies, it ensures fast and reliable message delivery.
+This app allows users to chat seamlessly while also providing easy-to-use file conversion features such as converting images to PDF, extracting images from PDFs, merging PDFs, and converting image formats.
 
 ---
 
 ## 🚀 Features
 
-- Real-time messaging with Socket.IO
+- Real-time messaging inspired by WhatsApp
+- Convert multiple images into a single PDF
+- Extract images from PDF files
+- Merge multiple PDF files into one
+- Convert images between different formats (e.g., PNG to JPG)
 - User-friendly and responsive design
-- Clean and simple interface inspired by WhatsApp
-- Easy to set up and run locally
 
 ---
 
@@ -46,7 +48,7 @@ This app provides a clean and intuitive interface for users to chat instantly. B
 
 ## 🔗 Demo
 
-Experience the app live here:  
+Try the live demo here:  
 [https://whatxtor.netlify.app/](https://whatxtor.netlify.app/)
 
 ---
@@ -58,8 +60,8 @@ Experience the app live here:
 - **JavaScript**  
 - **Node.js**  
 - **Express.js**  
-- Socket.IO
+- **Socket.IO**
 
 ---
 
-Thank you for checking out the WhatsApp Chat App! 🎉
+Thank you for exploring the WhatsApp Chat File Converter! 🎉
